@@ -1,7 +1,7 @@
 # Hi 👋, I'm Suman Panda
 
 💻 Java Backend Developer (Fresher)  
-🎓 B.Tech Computer Science Engineering  
+🎓 MCA (Master of Computer Applications)
 🌱 Currently learning Full Stack Development  
 ⚙️ Focused on Spring Boot, REST APIs, JWT Authentication  
 
@@ -41,7 +41,7 @@
 - Git & GitHub
 - Postman
 - VS Code
-- IntelliJ IDEA
+- Eclipse
 - Maven
 
 ---
@@ -69,8 +69,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: suman@gmail.com  
-- 💼 LinkedIn: (add your link here)  
+- 📧 Email: pandasuman959@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/suman-panda-12345/
 - 🌐 Portfolio: (optional)
 
 ---
