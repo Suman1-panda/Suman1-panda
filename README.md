@@ -27,6 +27,7 @@
 - Spring Security (JWT)
 - REST API
 - Hibernate / JPA
+- JDBC
 
 ### 🗄️ Database
 - MySQL
@@ -55,7 +56,7 @@
 - MySQL integration
 
 ### 📘 More Projects Coming Soon...
-- Employee Management System
+- Product Management System
 - Blog API Backend
 - Full Stack Portfolio Project
 
@@ -71,7 +72,8 @@
 
 - 📧 Email: pandasuman959@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/suman-panda-12345/
-- 🌐 Portfolio: (optional)
+- 🌐 Portfolio: https://github.com/Suman1-panda/suman-panda-portfolio.git
+- 📱 Mobile: 9348922940
 
 ---
 
