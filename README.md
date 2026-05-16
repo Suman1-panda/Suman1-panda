@@ -1,84 +1,74 @@
-# Hi 👋, I'm Suman Panda
+# 👋 Hi, I'm Suman Panda
 
-💻 Java Backend Developer (Fresher)  
-🎓 MCA (Master of Computer Applications)
-🌱 Currently learning Full Stack Development  
-⚙️ Focused on Spring Boot, REST APIs, JWT Authentication  
+💻 Java Full Stack Developer  
+🚀 Passionate about Backend Development & Problem Solving  
 
 ---
 
-## 🧑‍💻 About Me
+# 🧠 About Me
 
-- 🔭 I’m currently working on **Spring Boot Projects (JWT Authentication, REST APIs)**
-- 🌱 Learning **React, MySQL, and Advanced Java Backend Concepts**
-- 💡 Interested in **Backend Development & System Design basics**
-- 🚀 Goal: Become a strong **Java Backend Engineer**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-- Java
-- JavaScript (Basic)
-
-### 🌐 Backend
-- Spring Boot
-- Spring Security (JWT)
-- REST API
-- Hibernate / JPA
-- JDBC
-
-### 🗄️ Database
-- MySQL
-
-### 🎨 Frontend (Learning)
-- HTML
-- CSS
-- JavaScript
-- React (Beginner)
-
-### 🔧 Tools & Platforms
-- Git & GitHub
-- Postman
-- VS Code
-- Eclipse
-- Maven
+- 🌱 Currently learning Spring Boot & React  
+- 💡 Interested in Java Backend Development  
+- 🎯 Goal: Become a Strong Java Developer  
+- ⚡ Love building real-world projects  
 
 ---
 
-## 📂 Projects
+# 🌐 Connect With Me
 
-### 🔐 JWT Authentication System
-- Spring Boot + Spring Security
-- JWT Token generation & validation
-- Role-based authentication
-- MySQL integration
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
 
-### 📘 More Projects Coming Soon...
-- Product Management System
-- Blog API Backend
-- Full Stack Portfolio Project
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Suman1-panda)
 
 ---
 
-## 📈 GitHub Stats
+# 🛠 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suman1-panda&show_icons=true&theme=radical)
+![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=java)
+
+![Spring](https://img.shields.io/badge/SPRING-green?style=for-the-badge&logo=spring)
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript)
+
+![MySQL](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=mysql)
+
+![Git](https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)
 
 ---
 
-## 📫 Contact Me
+# 📊 GitHub Stats
 
-- 📧 Email: pandasuman959@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/suman-panda-12345/
-- 🌐 Portfolio: https://suman1-panda.github.io/suman-panda-portfolio/
-- 📱 Mobile: 9348922940
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suman1-panda&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suman1-panda&layout=compact&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Suman1-panda&theme=tokyonight)
 
 ---
 
-## ⚡ Fun Fact
+# 🏆 GitHub Trophies
 
-> “I believe consistency beats talent when talent doesn’t work hard.”
+[![trophy](https://github-profile-trophy.vercel.app/?username=Suman1-panda&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+# 🚀 Projects
+
+- 🔐 JWT Authentication Project  
+- 📋 Task Manager App  
+- 👨‍💼 User Management System  
+- 🌐 Portfolio Website  
+
+---
+
+⭐ From [Suman1-panda](https://github.com/Suman1-panda)
