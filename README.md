@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Suman Panda
 
-💻 Java Full Stack Developer  
+🎓 MCA Graduate  
+💻 Java Full Stack Developer Fresher
 🚀 Passionate about Backend Development & Problem Solving  
 🌱 Learning Spring Boot & React  
 🎯 Goal: Become a Strong Java Backend Developer  
+⚡ Fun fact: I enjoy solving backend logic problems and building real-world projects to improve my development skills
+👯 I’m looking to collaborate on Java backend projects, REST API development, and open-source contributions
+
 
 ---
 
@@ -16,7 +20,11 @@
 
 ---
 
+🚀 Seeking Java Developer opportunities to build scalable applications and grow as a backend engineer.
+
 # 🌐 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:pandasuman959@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suman-panda-14aab3316)
 
@@ -78,6 +86,16 @@
 - 🌐 Portfolio Website  
 
 ---
+
+# 🏅 Certifications
+
+- ☕ Java Full Stack Development Certification  
+- 💼 Java Internship Certificate  
+- 📘 NPTEL – Internet of Things (IoT)  
+- ☁️ NPTEL – Cloud Computing  
+- 📊 NPTEL – Management Information System (MIS)
+
+  ---
 
 # 📈 Profile Views
 
