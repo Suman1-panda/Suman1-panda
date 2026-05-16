@@ -72,7 +72,7 @@
 
 - 📧 Email: pandasuman959@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/suman-panda-12345/
-- 🌐 Portfolio: https://github.com/Suman1-panda/suman-panda-portfolio.git
+- 🌐 Portfolio: https://suman1-panda.github.io/suman-panda-portfolio/
 - 📱 Mobile: 9348922940
 
 ---
