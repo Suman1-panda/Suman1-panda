@@ -2,11 +2,11 @@
 
 🎓 MCA Graduate  
 💻 Java Full Stack Developer Fresher
-🚀 Passionate about Backend Development & Problem Solving  
 🌱 Learning Spring Boot & React  
 🎯 Goal: Become a Strong Java Backend Developer  
 ⚡ Fun fact: I enjoy solving backend logic problems and building real-world projects to improve my development skills
 👯 I’m looking to collaborate on Java backend projects, REST API development, and open-source contributions
+🚀 Passionate about Backend Development & Problem Solving  
 
 
 ---
