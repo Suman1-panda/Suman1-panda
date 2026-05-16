@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Suman Panda
 
 🎓 MCA Graduate  
-💻 Java Full Stack Developer Fresher
-🌱 Learning Spring Boot & React  
-🎯 Goal: Become a Strong Java Backend Developer  
-🚀 Passionate about Backend Development & Problem Solving  
+💻 Java Full Stack Developer Fresher  
+🌱 Currently Learning Spring Boot & React  
+🚀 Passionate About Backend Development & Problem Solving  
+⚡ Building Real-World Java Projects  
+💼 Open to Java Developer Opportunities  
+🎯 Goal: Become a Strong Java Backend Developer
 
 
 ---
